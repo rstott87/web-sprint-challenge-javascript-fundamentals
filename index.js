@@ -1,6 +1,6 @@
 //🚀🚀🚀  Topic #1 Closures 🚀🚀🚀//
 /* 🚀🚀🚀🤓 Task 1: 🤓🚀🚀🚀 
-Study the code below and explain in your own words why nested function can access the variable internal. */
+Study the code below and explain in your own words why nested function can access the variable internal. */ /**test */
 
 const external = "I'm outside the function";
 
@@ -17,7 +17,7 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-
+/**because it's global */
 
 
 
